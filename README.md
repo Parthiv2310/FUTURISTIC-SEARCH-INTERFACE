@@ -23,8 +23,8 @@ This project is an AI-powered search engine that leverages advanced language mod
    git clone https://github.com/Parthiv2310/FUTURISTIC SEARCH INTERFACE.git
 
 ## RESULT :
-![Home Page](https://github.com/Sameer12062003/FUTURISTIC-SEARCH-INTERFACE/assets/130920137/dfae09c4-8853-4775-bd14-200c8a6b4b41)
-![Main Page](https://github.com/Sameer12062003/FUTURISTIC-SEARCH-INTERFACE/assets/130920137/668f5a5e-41ba-4bd1-bfdb-2700b097c576)
+![Home Page](https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE/assets/132590830/fa020789-f9d1-42dc-a7eb-5ec57c46cbd7)
+![Main Page](https://github.com/Parthiv2310/FUTURISTIC-SEARCH-INTERFACE/assets/132590830/ce4805b7-aa23-4167-80c0-1f4a5c6da12b)
 
 
    
